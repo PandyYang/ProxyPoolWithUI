@@ -53,7 +53,7 @@
 1. 下载代码
 
 ```bash
-git clone https://github.com/OxOOo/ProxyPoolWithUI.git
+git clone https://github.com/PandyYang/ProxyPoolWithUI
 ```
 
 2. 安装Python依赖(在`ProxyPoolWithUI`目录下执行)
@@ -79,7 +79,7 @@ python3 main.py
 1. 下载项目文件
 
 ```bash
-git clone https://github.com/OxOOo/ProxyPoolWithUI.git
+git clone https://github.com/PandyYang/ProxyPoolWithUI
 cd ProxyPoolWithUI
 ```
 
