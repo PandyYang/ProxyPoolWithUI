@@ -16,7 +16,7 @@
 推荐:
 * [HTTP代理原理](https://zhuanlan.zhihu.com/p/349028243)
 
-项目Demo：[http://chenyu0x00.com:8888/](http://chenyu0x00.com:8888/)
+项目Demo：[http://43.138.109.202:5000/web/](http://43.138.109.202:5000/web/)
 
 **2021年3月8日测试，项目运行半小时后，支持访问HTTPS的代理有40+，支持访问HTTP的代理有100+。**
 
@@ -65,7 +65,7 @@ pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
 3. 启动(在`ProxyPoolWithUI`目录下执行)
 
 ```bash
-python3 main.py
+python main.py
 ```
 
 如果你在运行了上述命令之后，在命令行中看到了类似如下截图，那么说明项目成功启动了：
