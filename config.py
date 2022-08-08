@@ -17,7 +17,7 @@ PROC_FETCHER_SLEEP = 5 * 60
 PROC_VALIDATOR_SLEEP = 5
 
 # 验证器的配置参数
-VALIDATE_THREAD_NUM = 50 # 验证线程数量
+VALIDATE_THREAD_NUM = 20 # 验证线程数量
 # 验证器的逻辑是：
 # 使用代理访问 VALIDATE_URL 网站，超时时间设置为 VALIDATE_TIMEOUT
 # 如果没有超时：
