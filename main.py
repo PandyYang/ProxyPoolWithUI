@@ -52,6 +52,12 @@ def main():
                 #     print(f'进程{p.name}运行太久，重启')
                 #     p.process.terminate()
                 #     p.process = None
+                #
+                #     try:
+                #         proc_lock.release()
+                #     except ValueError as e:
+                #         print(str(e))
+                #         pass
 
         time.sleep(0.2)
 
